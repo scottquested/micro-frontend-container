@@ -1,0 +1,9 @@
+dist
+coverage
+.github
+node_modules
+.eslintrc.js
+tsdx.config.js
+webpack.config.js
+config
+@federated

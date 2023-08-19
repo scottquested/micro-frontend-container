@@ -1,0 +1,17 @@
+{
+  "singleQuote": true,
+  "trailingComma": "none",
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "importOrder": [
+    "^(react|react-router-dom)$",
+    "^@(.+)$",
+    "<THIRD_PARTY_MODULES>",
+    "^[./].*(?<!scss|types)$",
+    ".types$",
+    ".scss$"
+  ],
+  "importOrderSeparation": false,
+  "importOrderSortSpecifiers": true,
+  "plugins": ["@trivago/prettier-plugin-sort-imports"]
+}

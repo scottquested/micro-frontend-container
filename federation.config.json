@@ -1,0 +1,8 @@
+{
+  "name": "mfe_container",
+  "remotes": {
+    "mfe_components": "mfe_components@http://localhost:3001/remote.js",
+    "mfe_app_1": "mfe_app_1@http://localhost:3002/remote.js",
+    "mfe_app_2": "mfe_app_2@http://localhost:3003/remote.js"
+  }
+}
